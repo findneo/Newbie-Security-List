@@ -175,6 +175,8 @@ https://github.com/hanc00l/wooyun_public
 - https://www.exploit-db.com/google-hacking-database/
 - http://search.chongbuluo.com/
 - http://www.xilinjie.com/
+- http://webcache.googleusercontent.com/search?q=cache:https://findneo.github.io
+- https://web.archive.org/web/*/https://findneo.github.io
 
 ### 电子书籍
 
