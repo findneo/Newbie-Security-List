@@ -7,7 +7,7 @@
 
 
 
-
+如需配合目录食用请访问[这里](https://findneo.github.io/2018/03/180308-Newbie-Security-List/)
 
 # 乌云
 
@@ -62,6 +62,7 @@ https://github.com/hanc00l/wooyun_public
 * https://github.com/ctfs/
 * https://github.com/joe-shenouda/awesome-cyber-skills
 * https://github.com/CHYbeta/Web-Security-Learning
+* https://github.com/qazbnm456/awesome-web-security
 * https://github.com/tom0li/collection-document
 
 ### 安全导航
