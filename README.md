@@ -13,6 +13,7 @@
 
 ## 在线漏洞库/知识库
 
+* https://wooyun.shuimugan.com/
 * http://cb.drops.wiki/
 * http://wooyun.chamd5.org/
 * http://wooyun.jozxing.cc/
@@ -22,6 +23,7 @@
 
 * https://superkieran.github.io/WooyunDrops/#!/
 * https://wooyun.js.org/
+* http://www.vuln.cn/wooyundrops
 * https://web.archive.org/web/20160628084846/http://drops.wooyun.org:80/ （~~GFW~~）
 
 ## 在线漏洞库
@@ -51,6 +53,7 @@ https://github.com/hanc00l/wooyun_public
 - https://beginners.re/
 - https://leanpub.com/web-hacking-101 
 - https://ctf-wiki.github.io/ctf-wiki/index.html
+- https://www.gitbook.com/read/book/firmianay/ctf-all-in-one
 - https://www.pediy.com/kssd/
 - https://paper.seebug.org/
 - http://evilcos.me/security_skill_tree_basic/index.html
@@ -64,12 +67,15 @@ https://github.com/hanc00l/wooyun_public
 * https://github.com/CHYbeta/Web-Security-Learning
 * https://github.com/qazbnm456/awesome-web-security
 * https://github.com/tom0li/collection-document
+* https://github.com/zardus/wargame-nexus 
+* https://github.com/sbilly/awesome-security
 
 ### 安全导航
 
 * https://navisec.it/
 * http://www.itxueke.com/SecNavi/
 * http://shentoushi.top/
+* https://www.anquanquan.info/
 
 ### 其他优秀资源
 
