@@ -111,6 +111,7 @@ https://github.com/hanc00l/wooyun_public
 - http://www.underthewire.tech/
 - http://www.freebuf.com/sectool/4708.html
 - http://www.hetianlab.com/
+- https://lab.pentestit.ru/
 
 ### ONLINE JUDGE
 
