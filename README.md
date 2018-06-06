@@ -89,7 +89,9 @@ https://github.com/hanc00l/wooyun_public
 * http://www.opensecuritytraining.info/
 * http://www.fuzzysecurity.com/index.html
 * https://pentesterlab.com/bootcamp
-* http://liveoverflow.com/
+* http://liveoverflow.com/ 
+* https://rupigcute.wixsite.com/quantiumtown/rssindex 
+* https://raintrees.net/projects/a-painter-and-a-black-cat/wiki 
 
 ## GET HANDS DIRTY
 
