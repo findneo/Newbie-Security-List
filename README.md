@@ -7,7 +7,7 @@
 
 
 
-如需配合目录食用请访问[这里](http://findneo.tech/180308NewbieSecurityList/)
+如需配合目录食用请访问[这里](https://findneo.github.io/180308NewbieSecurityList/)
 
 # 乌云
 
